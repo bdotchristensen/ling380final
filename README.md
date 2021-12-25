@@ -7,7 +7,7 @@ In this repository resides the code for Question 2 of our project. All of the co
 Contains zipped numpy files of each word used to compute the average embedding vector in Question 2, by language.
 
 ### ./bert-base-multilingual-cased/
-Contains the multilingual BERT model used to compute embeddings of words in Russian, Polish, Czech, German, and Finnish.
+Contains the multilingual BERT model used to compute embeddings of words in Russian, Polish, Czech, German, and Finnish. Model is available at Hugging Face, but was omitted here for size concerns.
 
 ### ./german/
 Contains data used for German analyses and the corpus of cased nouns. The notebook derives the nouns needed for our analysis from the larger corpora.
